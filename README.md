@@ -130,14 +130,6 @@ Dashboard Creation in Power BI
        ↓
 Business Insights & Recommendations
 
-# Dashboard Design
-
-The dashboard was designed using:
-- Modern purple theme
-- Glassmorphism-inspired cards
-- Interactive filtering
-- Minimal UI design
-- Business-focused KPI visualization
 
 -- Ruchi
 
